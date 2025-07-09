@@ -1,10 +1,15 @@
 import { expect } from '@playwright/test';
 
+/**
+ * @typedef { import('@playwright/test').Page } Page
+ */
 export class ClioHomePage {
+  /**
+   * @param {Page} page
+   */
   constructor(page) {
     this.page = page;
-    this.btnLogin = page.locator('');
-
+    this.btnLogin = page
   }
 
   async goto(url) {

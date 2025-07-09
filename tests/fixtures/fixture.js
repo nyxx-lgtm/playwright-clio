@@ -1,12 +1,12 @@
-import { test as base } from 'playwright-bdd';
-import * as Pages from './pages.js';
+import { test as base } from '@playwright/test';
+import { ClioHomePage } from '../pages/clioHomeObj';
 
-const { ClioHomePage } = Pages;
-
-const createTestFunction = (PageClass) => async ({page}, use) =>{
-    await use(new PageClass(page));
-}
-
+/**
+ * Extend base test with clioHomePage fixture
+ */
 export const test = base.extend({
-    clioHomePage: createTestFunction(ClioHomePage)
+  clioHomePage: async ({ page }, use) => {
+    const clioHomePage = new ClioHomePage(page);
+    await use(clioHomePage);
+  },
 });
