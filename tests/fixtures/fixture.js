@@ -1,12 +1,17 @@
-import { test as base } from '@playwright/test';
-import { ClioHomePage } from '../pages/clioHomeObj';
+import { test as base } from "playwright-bdd";
+import { ClioContactPage } from "../pages/clioContactObj";
+import { HelpPage } from "../pages/helpObj";
+import { ClioMatterPage } from "../pages/clioMatterObj";
+import { ClioTaskPage } from "../pages/clioTaskObj";
 
-/**
- * Extend base test with clioHomePage fixture
- */
+const createFixture = (PageObject) => async ({ page }, use) => {
+  const po = new PageObject(page);
+  await use(po);
+};
+
 export const test = base.extend({
-  clioHomePage: async ({ page }, use) => {
-    const clioHomePage = new ClioHomePage(page);
-    await use(clioHomePage);
-  },
+  clioContactPage: createFixture(ClioContactPage),
+  helpPage: createFixture(HelpPage),
+  clioMatterPage: createFixture(ClioMatterPage),
+  clioTaskPage: createFixture(ClioTaskPage),
 });

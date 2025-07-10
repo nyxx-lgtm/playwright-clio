@@ -1,0 +1,305 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNBMUiGGthBrAOp1kvBkwUgujJ_mzyhX2c2sJG7X8vsPwYUTlmab0KfzYC1EgHHM8N8bkdI5jt2zvf-8S4U",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1767691128.458197,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "identity_user_agent_id",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkltZzRkalkxZWpOaElnPT0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5pZGVudGl0eV91c2VyX2FnZW50X2lkIn19--20e75127772bce110849d39aa08e58fbf11a5fe2",
+      "domain": "account.clio.com",
+      "path": "/",
+      "expires": 1786699116.612363,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "clio_identity_support_id",
+      "value": "h8v65z3a",
+      "domain": "account.clio.com",
+      "path": "/",
+      "expires": 1786699146.164069,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.247134335.1752139117",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1786699149.040535,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "202B0D4803D06BA92C451B6D02B56A0A",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1785835118.313749,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1752743918.313931,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "b83d0270-a645-4130-9690-d9adb59df500",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1783675126,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "clio_first_touch",
+      "value": "{%22referrer%22:null%2C%22landing_url%22:%22https://account.clio.com/%22%2C%22ajs_user_id%22:null%2C%22ajs_anonymous_id%22:%22b83d0270-a645-4130-9690-d9adb59df500%22%2C%22timestamp%22:1752139118478%2C%22gclid%22:null%2C%22utm_campaign%22:null%2C%22utm_source%22:null%2C%22utm_medium%22:null%2C%22utm_content%22:null%2C%22utm_term%22:null%2C%22sem_ad_group_id%22:null}",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1759915126,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "clio_last_touch_refresh_count",
+      "value": "1",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1759915118,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "clio_last_touch",
+      "value": "{%22referrer%22:null%2C%22landing_url%22:%22https://account.clio.com/%22%2C%22ajs_user_id%22:null%2C%22ajs_anonymous_id%22:%22b83d0270-a645-4130-9690-d9adb59df500%22%2C%22timestamp%22:1752139118480%2C%22session_count%22:1%2C%22gclid%22:null%2C%22utm_campaign%22:null%2C%22utm_source%22:null%2C%22utm_medium%22:null%2C%22utm_content%22:null%2C%22utm_term%22:null%2C%22sem_ad_group_id%22:null}",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1759915126,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_session_id",
+      "value": "9e863bd8f5f67a9ea90ca7884c17fc69",
+      "domain": "app.clio.com",
+      "path": "/",
+      "expires": 1752293948.318664,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oauth2_authentication_csrf",
+      "value": "MTc1MjEzOTEyMnxEdi1CQkFFQ180SUFBUkFCRUFBQVB2LUNBQUVHYzNSeWFXNW5EQVlBQkdOemNtWUdjM1J5YVc1bkRDSUFJR0ZqTTJZM1l6azVZbVprTWpSa1pEZzVPRFF4TjJabE5ESTJPV1E0WlRFNHwHHAK8sTSz5chcvXZR88YctsPGZN3JELv-tpot3oxq2w==",
+      "domain": "account.clio.com",
+      "path": "/",
+      "expires": 1754731122.122955,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPTC",
+      "value": "Uy527TRev1J9OWH-T9nQ6bDM_pj7oGnjIuY4GKk1aEY",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1785835123.605746,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uetsid",
+      "value": "dc49a6005d6e11f0a597d9cc811ff3f8",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1752225524,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "dc4a06b05d6e11f0a5a099ac3b3950cd",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1785835124,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "device_uuid",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqUmpaVFU1TURNNUxUQm1OREV0TkRFd015MDRaV0ppTFRVelpXTTROamd3WlRRMVlTST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5kZXZpY2VfdXVpZCJ9fQ%3D%3D--14d6a359940dd0c8c3472a46591d6cf06ea74cc9",
+      "domain": "account.clio.com",
+      "path": "/",
+      "expires": 1786699145.568935,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clio-identity_session",
+      "value": "eRGvQF3ek%2BwNIttm90cKUHCaE%2FxuqBS4%2FlcKsUGL3P7n%2BD%2FskxN7k5E7pxxbfNtAzG804QT%2Fk18mJcOdBblACyvFSxN2mRbWT0I3vtDb4Mp4qJ4Wa3MFs6DEpMGJlA7C2Xxbs99YqUwDbr%2Bke8ac3K1LnuQ6NlaGsXISKFZfKGFozAAazITud4SYE8RRYCO3H4mpoLIve0FAEu%2BKap%2FJICqb7kXtjsgjtwt2OPe0f4GsRT%2BluQLS3Ud2fSuQ20pTWUb3HjnvdK9VedsVSCOSlLnPo5wHRHxd7pdTjL%2Bl--PUFb0cBlp9JnAh8U--nbDWJQUrStOnfoHXDDv%2BWA%3D%3D",
+      "domain": "account.clio.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oauth2_authentication_session",
+      "value": "MTc1MjEzOTE0NXxEdi1CQkFFQ180SUFBUkFCRUFBQVFmLUNBQUVHYzNSeWFXNW5EQVVBQTNOcFpBWnpkSEpwYm1jTUpnQWtNbVUxWXpsaE9XSXROV1kwTkMwME0yVTVMV0UxWWpFdE1EYzJaVEZoWkRabFpXSXd8iCelRI-8JadJrqD4R8HS7FSTIuc0kb03Iy088f3J4Lg=",
+      "domain": "account.clio.com",
+      "path": "/",
+      "expires": 1752380345.869389,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oauth2_consent_csrf",
+      "value": "MTc1MjEzOTE0NXxEdi1CQkFFQ180SUFBUkFCRUFBQVB2LUNBQUVHYzNSeWFXNW5EQVlBQkdOemNtWUdjM1J5YVc1bkRDSUFJRGM0TURObFpEQXhOek15TXpSbE1UVmhZMkppWkRKbE5XTXlNell3TnpVMXz3lhfwPj072FXSd-KA1cZXxhS2k3IIG9uFRCQRs8eFLw==",
+      "domain": "account.clio.com",
+      "path": "/",
+      "expires": 1754731145.869519,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "device_uuid",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqQmhZekJoTW1aakxXVmxOVEF0TkdKaVppMDVNekZpTFdRd1lUUmpaVEV4WlRVek5pST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5kZXZpY2VfdXVpZCJ9fQ%3D%3D--2c824f122a9494703b4793f08b17c5eeff9e6b95",
+      "domain": "app.clio.com",
+      "path": "/",
+      "expires": 1786699148.318529,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "KBvGPzRTjOtPUVeq3Peh6t1fZI3ZfuH5z-kZTzpr6MGwePycVWRI5Jt9qVatPnvT0VKDv2RvP_xx5TKC4Od6Qw",
+      "domain": "app.clio.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_0331YR7VDY",
+      "value": "GS2.1.s1752139116$o1$g1$t1752139148$j28$l0$h0",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1786699148.327171,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=0&expire=1752140048837",
+      "domain": "app.clio.com",
+      "path": "/",
+      "expires": 1752140048,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_3PKKR9DSBM",
+      "value": "GS2.1.s1752139149$o1$g0$t1752139149$j60$l0$h0",
+      "domain": ".clio.com",
+      "path": "/",
+      "expires": 1786699149.047039,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.clio.com",
+      "localStorage": [
+        {
+          "name": "bugsnag-anonymous-id",
+          "value": "cmcx6errl0000356i2kzfpmnu"
+        }
+      ]
+    },
+    {
+      "origin": "https://account.clio.com",
+      "localStorage": [
+        {
+          "name": "_uetvid_exp",
+          "value": "Tue, 04 Aug 2026 09:18:44 GMT"
+        },
+        {
+          "name": "newLogin",
+          "value": "4498"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Fri, 11 Jul 2025 09:18:44 GMT"
+        },
+        {
+          "name": "_uetvid",
+          "value": "dc4a06b05d6e11f0a5a099ac3b3950cd"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09ANMylNA-REC8WFM0c-EOU34su2IpnvZHu6nauzGVm9AQaQuzauchUVTsVq0F8ucB1MXJdV7jD1ZER7QxVVbhKwiCr_-CGmxm8iXjDXOTe1XFNt9kvqLVPzUcXnUdPiZI"
+        },
+        {
+          "name": "_uetsid",
+          "value": "dc49a6005d6e11f0a597d9cc811ff3f8"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"b83d0270-a645-4130-9690-d9adb59df500\""
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "null"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MXlsbW5vcDFxdzN3MHI="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAJ3Gg0aIUksjdpaVes0FqCaC8xsZQVbztHuBRwlwqGZX1gaxKd5TGCWNOCDMqp3p1CFWq7Q"
+        }
+      ]
+    }
+  ]
+}
